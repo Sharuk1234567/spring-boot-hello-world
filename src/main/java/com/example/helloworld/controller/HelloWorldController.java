@@ -8,6 +8,10 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String sendGreetings() {
+<<<<<<< HEAD
         return "Hello, World! testing";
+=======
+        return "Hello, World! testing the code project2";
+>>>>>>> 1a7df2e (new code added)
     }
 }
