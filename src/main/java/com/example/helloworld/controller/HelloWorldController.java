@@ -8,7 +8,7 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String sendGreetings() {
-         return "Hello, World! testing the code project2, monitoring on grafana";
+         return "Hello, World! testing the code project2, monitoring on grafana, Azure-DevOps";
 
     }
 }
